@@ -1,0 +1,12 @@
+package com.asmita;
+
+public class Abc {
+
+	
+	
+public String getMoney() {
+	
+	return "I have a $100000";
+}
+
+}

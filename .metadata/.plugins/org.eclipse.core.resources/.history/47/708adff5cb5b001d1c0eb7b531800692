@@ -1,0 +1,35 @@
+package com.asmita;
+
+public class TestApp {
+
+	public static void main(String[] args) {
+		
+	System.out.println("*-----hello adam -------*");
+	
+	TestApp a1 =new TestApp();
+	
+	System.out.println(a1.getEmail());
+	System.out.println(a1.getint());
+	System.out.println(a1.getdouble());
+	
+		
+	}
+
+	
+	public  String getEmail() {
+		return "kctiraj44@gamil.com";
+	}
+	
+	public  int getint() {
+		return 2;
+		
+	}
+	
+	public  double getdouble() {
+		return 3.0;
+	}
+	
+	
+	
+	
+}
